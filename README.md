@@ -1,7 +1,31 @@
-Glad to see you here!   
-I'm a Highschool student planning to pursue Software Development. I love what I do and love to upload free shit! I do have some paid products just so I can earn something out of this hobby!
+## Hey 👋, I'm [Ziggy!](https://github.com/Ziggy434)
 
-68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3431363631302f73637265656e73686f74732f343830313130352f636f64696e675f6465736b5f666c61745f766563746f725f75695f75785f64657369676e5f696c6c757374726174696f6e5f6d6f74696f6e5f616e696d6174696f6e5f676966322e676966
+<img align="right" height="60" width="60" alt="" src="https://cdn.discordapp.com/attachments/705285476054990919/981939336478081105/ziggy_1.png" />
 
-Languages and Tools:
-JavaScript  LUA  Node.js  GitHub  Visual Studio Code 
+[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/AYSSF4Uuv9)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCDtkXRpO6Rda9N1TB2ijSJw)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/Ziggy434)
+
+### Languages and Tools:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![LUA](https://img.shields.io/badge/-LUA-333333?style=flat&logo=lua)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+### ⚙️ &nbsp;GitHub Stats
+
+<p align="left">
+<a href="https://github.com/AstraWRLD">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ziggy434&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ziggy434&layout=compact&langs_count=8&theme=react"/>
+</a>
+</p>
+
+---
+
+
+<h3 align=center>Show some ❤️ by starring some of the repositories!</h3>
+
+---
